@@ -1,4 +1,3 @@
 
 
-
-<a rel="me" href="https://mastodon.sdf.org/@rdesfo">Mastodon</a>
+#+HTML: <a rel="me" href="https://mastodon.sdf.org/@rdesfo">Mastodon</a>
